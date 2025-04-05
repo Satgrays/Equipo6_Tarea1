@@ -1,0 +1,10 @@
+pandas==2.2.3
+numpy==1.23.5
+scikit-learn==1.5.2
+xgboost==3.0.0
+imbalanced-learn==0.13.0
+joblib==1.4.2
+requests==2.32.3
+azureml-core==1.59.0
+azureml-defaults==1.59.0
+kagglehub==0.3.10
